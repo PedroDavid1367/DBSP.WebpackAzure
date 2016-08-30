@@ -15,7 +15,7 @@ import { Component }          from "@angular/core";
     <div class="col s10">
         <router-outlet></router-outlet>
     </div>
-  </div>
+  </div> 
   `
 })
 export class RxJSSamplesHomeComponent {
