@@ -280,3 +280,4 @@ _temp
 !vendor.js
 !vendor.js.map
 !server/index.js
+!dist/*.ttf
